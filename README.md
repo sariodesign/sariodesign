@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sariodesign
-- 👀 I’m interested in Design&Cide
+- 👀 I’m interested in Design&Code
 - 🌱 I’m currently front-end developer @CiaoPeople
 
 <!---
