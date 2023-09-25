@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sariodesign
 - 👀 I’m interested in Design&Code
-- 🌱 I’m currently front-end developer @CiaoPeople
+- 🌱 I’m currently front-end developer open to work
 
 <!---
 sariodesign/sariodesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
